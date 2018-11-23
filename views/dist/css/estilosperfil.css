@@ -1,0 +1,41 @@
+.nombre,.email,.pass{
+	display: inline-block;
+	margin-left: 100px;
+color:black;
+
+}
+.fondo{
+	background:#ABB2B9    ;
+	border-bottom-right-radius:1.2em;
+	border-bottom-left-radius:1.2em;
+
+	
+}
+.fondo,.nombre h3{
+
+font-family: roboto, serif; font-size:14pt; font-style:italic;	
+}
+.fondo,.email h3{
+
+font-family: roboto, serif; font-size:14pt; font-style:italic;	
+}
+.fondo,.pass h3{
+
+font-family: roboto, serif; font-size:14pt; font-style:italic;	
+}
+.sinborde {
+  border: 0;
+}
+.confondo {
+  background-color: #ABB2B9;
+}
+.btnEditarRadios{
+	width: 100%;
+	border-bottom-right-radius:1.2em;
+	border-bottom-left-radius:1.2em;
+}
+.titulo h2{
+	font-family: Courier, serif; font-size:14pt;
+	color: #EAEDED;
+	margin-left: 9em;
+}
